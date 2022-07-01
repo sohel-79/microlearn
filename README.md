@@ -1,3 +1,3 @@
 # microlearn
 
-clone web app of DeepStash
+Clone web app of DeepStash app
